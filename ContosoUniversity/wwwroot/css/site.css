@@ -7,6 +7,15 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+body {
+    background-color: #3AAFB9;
+    font-family: 'Russo One', sans-serif;
+}
+
+h1, h2 {
+    color: #1861ac;
+}
+
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
